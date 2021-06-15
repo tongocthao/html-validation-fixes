@@ -1,0 +1,10 @@
+repo: "html-validation-fixes"
+canvasCourse: "web-design-1"
+
+inherit:
+  - naming-restrict-live
+  - git-2
+  - html
+
+html:
+  - path: "index.html"
